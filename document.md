@@ -85,7 +85,7 @@ UniCoin은 전 세계의 가난한 사람들을 구제하기 위해 만들어졌
 
 홈페이지
 ----
-[https://junwha0511.wixsite.com/unicoin]
+https://junwha0511.wixsite.com/unicoin
 
 멤버
 ----
