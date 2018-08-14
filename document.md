@@ -39,7 +39,7 @@
 ![](https://user-images.githubusercontent.com/17183234/44066633-49eb1f20-9fac-11e8-94f6-01b4579d1c3e.png)
 
 
-1. 거래소에서 UniCoin 환전
+1.거래소에서 UniCoin 환전
 
 >from: 거래소
 
