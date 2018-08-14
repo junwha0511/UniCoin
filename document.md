@@ -33,7 +33,7 @@
 다이어그램
 ----
 
-![kakaotalk_20180813_190854901](https://user-images.githubusercontent.com/16622219/44025998-98d7bea2-9f2c-11e8-8d55-3bd280a649a4.png)
+![](https://user-images.githubusercontent.com/17183234/44065673-08575376-9fa7-11e8-91c7-44dbd6b07a21.png)
 
 
 1. 거래소에서 UniCoin 환전
